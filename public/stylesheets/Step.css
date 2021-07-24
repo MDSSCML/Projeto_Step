@@ -1,0 +1,41 @@
+h1 {
+    text-align: center;
+    color: rgb(4, 4, 116);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+header {
+    background-color: rgb(255, 254, 254);
+}
+
+body {
+    background-image: url(https://pbs.twimg.com/media/EdEWiSkWkAIR4wQ.jpg);
+    opacity: 0.9;
+}
+
+section {
+    margin-top: 20%;
+}
+
+.col-md-5 {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.btn,
+.form-control {
+    border-radius: 20px;
+
+}
+
+.col-md-5 {
+    border: 2px white double;
+    border-radius: 10px;
+    padding-top: 20px;
+    background-color: rgb(207, 214, 219);
+}
+
+p {
+    text-align: center;
+}
