@@ -1,8 +1,10 @@
 
-# Projeto_Step
+# Projeto Step
 
-<!-- badges: start -->
-<!-- badges: end -->
+## Projeto usando:
+### node.js
+### Express
+### Bootstrap
 
-The goal of Projeto_Step is to ...
+### foi feito a réplica do site da Mystat, do projeto da STEP Computer Academy.
 
