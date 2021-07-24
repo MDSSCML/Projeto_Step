@@ -2,7 +2,7 @@
 # Projeto Step
 
 ## Projeto usando:
-### node.js
+### Node.js
 ### Express
 ### Bootstrap
 
