@@ -1,7 +1,6 @@
 .baixo {
     margin-top: 2.5em;
 }
-
 .dez,
 .treze {
     padding: 0px;
@@ -10,17 +9,14 @@
     color: blue;
     margin-left: 20px;
 }
-
 .grupo {
     margin-left: 20px;
 
 }
-
 .quadrado1 {
     overflow-y: scroll;
     scroll-behavior: smooth;
 }
-
 .quadrado,
 .quadrado1 {
     background-color: cyan;
